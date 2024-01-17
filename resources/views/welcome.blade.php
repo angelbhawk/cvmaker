@@ -4,5 +4,5 @@
 
 @section('content')
     @include('partials.navigation')
-    <h1>Welcome</h1>
+    @include('partials.grid')
 @endsection
